@@ -1,9 +1,2 @@
-"# amazon-homepage" 
-"# amazon-homepage" 
-"# amazon-homepage" 
-"# amazon-homepage" 
-"# amazon-homepage" 
-"# amazon-homepage" 
-"# amazon-homepage" 
-"# amazon-homepage" 
-"# amazon-homepage" 
+# Amazon-homepage
+This source code contains the replica of Amazon website homepage.
